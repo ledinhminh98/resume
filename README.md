@@ -2,7 +2,7 @@
 
 - Full-stack developer in `Metta Depth`
 - Over 3 years of experience working in Vietnam.
-- Email: [ldminh8398@gmail.com](ldminh8398@gmail.com)
+- Email: [ldminh8398@gmail.com](mailto:ldminh8398@gmail.com)
 - Phone: [+84935721846](+84935721846)
 
 ## TECHNICAL SKILLS:
@@ -15,7 +15,6 @@
 - Salesforce Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
 - Salesforce Administrator: Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
 - Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
-- Other languages:
 
 ### Backend:
 
